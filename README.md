@@ -24,7 +24,7 @@ Each project comes with its own dedicated directory, complete with source code, 
 
 To explore the projects in this repository, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/ai-projects.git`
+1. Clone this repository: `git clone https://github.com/fradjmag38/Project-Rep.git`
 2. Navigate to the project of interest: `cd project-directory`
 3. Follow the instructions in the project's README to set up and run the code.
 
